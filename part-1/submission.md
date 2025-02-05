@@ -1,3 +1,3 @@
-#HelLooo IST 707
+#Hello IST 707
 
-![My first image tryout](assets./image.png)
+![My first image tryout](./image.png)
